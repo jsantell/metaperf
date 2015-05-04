@@ -1,0 +1,2 @@
+content metaperf content/
+overlay chrome://browser/content/browser.xul chrome://metaperf/content/metaperf.overlay.xul
